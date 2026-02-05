@@ -1,8 +1,3 @@
-
-  # Interactive Portfolio Website
-
-  This is a code bundle for Interactive Portfolio Website. The original project is available at https://www.figma.com/design/wgin1s6EYc0NeQ1DywE9gc/Interactive-Portfolio-Website.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
