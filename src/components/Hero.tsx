@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { useState, useEffect } from 'react';
 
-const roles = ["Developer", "Competitive Programmer", "Born Genius"];
+const roles = ["Developer", "Competitive Programmer", "Cinephile"];
 
 export default function Hero() {
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
